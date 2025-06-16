@@ -1,5 +1,7 @@
 # Assistant Juridique RAG - Code du Travail
 
+[Asistant juridique 🚀](https://bob-lo21p25.streamlit.app/)
+
 Un assistant juridique intelligent basé sur un système RAG (Retrieval-Augmented Generation) pour répondre aux questions sur le Code du Travail français.
 
 ## 🚀 Fonctionnalités
