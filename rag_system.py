@@ -13,6 +13,9 @@ from typing import Optional, List, Dict, Any
 import asyncio
 from langchain_core.documents import Document
 import time
+import pysqlite3
+# Ajout du code d'initialisation SQLite
+sys.modules['sqlite3'] = pysqlite3
 
 # Configuration pour résoudre les problèmes de boucle d'événements
 if sys.platform == 'win32':
@@ -554,3 +557,4 @@ with st.sidebar:
     - Ne remplace pas un conseil juridique professionnel
     - Les réponses peuvent varier selon les paramètres choisis
     """) 
+

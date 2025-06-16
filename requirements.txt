@@ -17,8 +17,9 @@ transformers>=4.36.0
 sentence-transformers>=2.2.2
 
 # Vector stores and embeddings
-chromadb>=0.4.18
+chromadb==0.3.29
 faiss-cpu>=1.7.4
+pysqlite3-binary
 
 # Data processing and utilities
 numpy>=1.24.0
