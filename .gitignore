@@ -1,0 +1,58 @@
+# Environnements virtuels
+venv/
+ENV/
+env/
+.venv/
+
+# Variables d'environnement
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de logs
+*.log
+logs/
+
+# Fichiers de base de données et stores vectoriels
+./chroma_db*/
+Chroma_db*/
+*.sqlite3
+*.db
+*.pkl
+*.pickle
+*.h5
+*.bin
+
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE et outils
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Egg et build
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Autres fichiers temporaires
+*.bak
+*.tmp
+~$*
+
+# LFS (si jamais tu utilises git-lfs, tu peux ajouter)
+*.lfs
