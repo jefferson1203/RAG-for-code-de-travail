@@ -1,0 +1,7 @@
+[
+    {"question": "Quelle est la durée légale du travail hebdomadaire en France ?", "ground_truths": ["La durée légale du travail effectif des salariés à temps plein est de 35 heures par semaine, sauf dispositions particulières."]},
+    {"question": "Comment un salarié peut-il bénéficier d'un congé parental d'éducation ?", "ground_truths": ["Un salarié peut bénéficier d'un congé parental d'éducation après la naissance ou l'adoption d'un enfant, sous certaines conditions d'ancienneté, pour s'occuper de l'enfant."]},
+    {"question": "Définition du Code du travail.", "ground_truths": ["Le Code du travail regroupe l'ensemble des règles relatives au droit du travail qui régissent les relations individuelles et collectives entre employeurs et salariés en France."]},
+    {"question": "Quel est le rôle de l'inspection du travail ?", "ground_truths": ["L'inspection du travail veille à l'application de la législation du travail et peut contrôler les entreprises."]},
+    {"question": "Quelles sont les conditions pour un contrat à durQuelle est la durée légale du travail hebdomadaire en France ?ée indéterminée (CDI) ?", "ground_truths": ["Le contrat de travail à durée indéterminée (CDI) est la forme normale et générale du contrat de travail. Il n'a pas de terme prévu et sa rupture obéit à des règles strictes."]}
+  ]
